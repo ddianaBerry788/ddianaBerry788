@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddianaBerry788
 - 👀 I’m interested in database administration, programming, data security
-- 🌱 I’m currently learning Java, C#, ASP
+- 🌱 I’m currently learning Java, C#, ASP.NET, Python, Oracle
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
